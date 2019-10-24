@@ -1,2 +1,2 @@
-# Travel-Insurance-
+# Travel-Insurance
 Predicting Claims
