@@ -19,6 +19,8 @@ The commission received for travel insurance agency (Commission)
 Gender of insured (Gender)
 Age of insured (Age)
 
-Challenges faced: Imbalanced Data, Missing Values, Reason for claim
+Challenges faced
+Imbalanced Data, Missing Values, Reason for claim
 
-Models used: SMOTE + Decision Tree
+Models used
+SMOTE + Decision Tree
